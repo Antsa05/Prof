@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Listes des profs</string>
+    <string name="telecom_prof_list">Liste des professeurs telecom</string>
+    <string name="name">Nom</string>
+    <string name="grad">Grade</string>
+    <string name="phone_number">Numéro</string>
+    <string name="email">Email</string>
+    <string name="find_a_prof">Chercher un prof</string>
+    <string name="phone_number_has_been_copied">Le numéro a été copié dans le presse-papier</string>
+    <string name="email_has_been_copied">L\'email a été copié dans le presse-papier</string>
+    <string name="name_has_been_copied">Le nom a été copié dans le presse-papier</string>
+    <string name="unvailable_number">Le numéro n\'est pas disponible</string>
+    <string name="wrong_number">Le numéro est erroné</string>
+    <string name="error_message">Une erreur est survenue:%1$s , veuillez contacter le responsable</string>
+    <string name="prof_male_name">M. %1$s</string>
+    <string name="prof_female_name">Mme. %1$s</string>
+</resources>
