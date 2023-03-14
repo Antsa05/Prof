@@ -1,6 +1,5 @@
 package com.telecomisfun.myapplication
 
-import android.annotation.SuppressLint
 import android.app.Dialog
 import android.content.ClipData
 import android.content.ClipboardManager
@@ -12,7 +11,6 @@ import android.view.Window
 import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
-import androidx.core.content.ContextCompat.startActivity
 
 class ProfPopup(
     private val prof: Prof,
@@ -24,7 +22,6 @@ class ProfPopup(
     private lateinit var profEmailTextView: TextView
     private lateinit var phoneImageView: ImageView
 
-    @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         requestWindowFeature(Window.FEATURE_NO_TITLE)
