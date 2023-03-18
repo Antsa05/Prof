@@ -1,5 +1,7 @@
  #Annuaire téléphonique des professeurs de la mention TELECOMMUNICATION
-  ## Fonction principale : lister les professeurs et tous ses coordonnées
+  ## mettre à la disposition des délégués de classe une plateforme qui
+leurs permettent de lister tous les professeurs au sein du département accompagnés de leurs
+contacts
   
 ***
 
@@ -20,10 +22,10 @@ Cette application vous permettra de facilement accéder aux informations de cont
    5. Si vous souhaitez appeler l'enseignant, cliquez simplement sur l' icône " téléphone" pour démarrer l'appel téléphonique
    
 ## Sous-foncions :
-     Cliquer sur un nom pour ouvrir une fenêtre qui affiche tous ses coordonnées
-     Cliquer sur l’icône « téléphone » pour composer tout de suite l’appel
-     Cliquer et maintenir l’adresse e-mail conduit à une copie de ce dernier
-     Rechercher un nom de votre choix au barre de recherche 
+  -   Cliquer sur un nom pour ouvrir une fenêtre qui affiche tous ses coordonnées
+  -   Cliquer sur l’icône « téléphone » pour composer tout de suite l’appel
+  -   Cliquer et maintenir l’adresse e-mail conduit à une copie de ce dernier
+  -   Rechercher un nom de votre choix au barre de recherche 
 
 Nous espérons que cette application facilitera la communication entre les enseignants et les étudiants du département Télécommunication. 
 
