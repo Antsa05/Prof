@@ -1,7 +1,5 @@
  #Annuaire téléphonique des professeurs de la mention TELECOMMUNICATION
-  ## mettre à la disposition des délégués de classe une plateforme qui
-leurs permettent de lister tous les professeurs au sein du département accompagnés de leurs
-contacts
+  ## une plateforme mise à disposition des délégués de classe leurs permettant de lister tous les professeurs au sein du département accompagnés de leurs contacts
   
 ***
 
